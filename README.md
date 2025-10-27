@@ -1,5 +1,5 @@
 # MIT 6.824 Distributed Systems
-
+[Everything for the course material](https://pdos.csail.mit.edu/6.824/schedule.html)
 This repository contains all course materials for [distributed systems](http://nil.csail.mit.edu/6.824/2020/schedule.html) given by MIT, including
 
 - lecture notes
